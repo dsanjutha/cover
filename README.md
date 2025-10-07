@@ -171,7 +171,7 @@ style.css
 }
 ```
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-07 194436.png>)
+<img width="1914" height="1072" alt="Screenshot 2025-10-07 194436" src="https://github.com/user-attachments/assets/74c37a24-e95f-41e9-adf4-fb4df6c6582d" />
 
 ## RESULT:
 The program for designing book front cover page using HTML and CSS is completed successfully.
